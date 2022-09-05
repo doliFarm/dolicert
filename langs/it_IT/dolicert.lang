@@ -20,7 +20,7 @@
 # Module label 'ModuleDoliCertName'
 ModuleDoliCertName = DoliCert
 # Module description 'ModuleDoliCertDesc'
-ModuleDoliCertDesc = DoliCert description
+ModuleDoliCertDesc = DoliCert genera tutti i documenti necessari all'organismo di controllo per la certificazione BIO
 doliCERT = Registri BIO & Certificazioni
 
 #
