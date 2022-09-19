@@ -80,7 +80,7 @@ $type = 'myobject';
 
 $arrayofparameters = array(
 	'DOLICERT_NOTIFICATIONEMAILS'=>array('type'=>'string', 'css'=>'minwidth500' ,'enabled'=>1),
-	'DOLICERT_MYPARAM2'=>array('type'=>'textarea','enabled'=>1),
+	// 'DOLICERT_MYPARAM2'=>array('type'=>'textarea','enabled'=>1),
 	'DOLICERT_WORKBOOK'=>array('type'=>'yesno', 'enabled'=>1),
 	'DOLICERT_SUPPLIERS'=>array('type'=>'yesno', 'enabled'=>1),
 	'DOLICERT_COMPLIANTS'=>array('type'=>'yesno', 'enabled'=>1),

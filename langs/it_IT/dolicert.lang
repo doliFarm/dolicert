@@ -33,8 +33,20 @@ DOLICERT_MYPARAM1 = My param 1
 DOLICERT_MYPARAM1Tooltip = My param 1 tooltip
 DOLICERT_MYPARAM2=My param 2
 DOLICERT_MYPARAM2Tooltip=My param 2 tooltip
-
-
+DOLICERT_WORKBOOK= Quaderno di Campagna
+DOLICERT_WORKBOOKTooltip=Se abilitato permette di gestire il Quaderno di Campagna
+DOLICERT_SUPPLIERS=Registro Fornitori
+DOLICERT_SUPPLIERSTooltip=Se abilitato permette di gestire il registro fornitori
+DOLICERT_COMPLIANTS=Registro Reclami
+DOLICERT_COMPLIANTSTooltip=Se registrato permette di gestire il registro reclami
+DOLICERT_SALES=Registro Vendite
+DOLICERT_SALESTooltip=Se abilitato permette di gestire il Registro Vendite
+DOLICERT_PURCHASE= Registro Acquisti
+DOLICERT_PURCHASETooltip=Se abilitato permette di gestire il Registro Acquisti
+DOLICERT_RAWMATERIALS=Registro Materie Prime
+DOLICERT_RAWMATERIALSTooltip=Se abilitato permette di gestire il Registro Materie Prime
+DOLICERT_CERTIFICATES=Certificati
+DOLICERT_CERTIFICATESTooltip=Se abilitato permette di gestire i documenti giustificativi
 #
 # About page
 #
